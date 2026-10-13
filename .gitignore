@@ -1,0 +1,28 @@
+# secrets
+.env
+.env.*
+!.env.example
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Node
+node_modules/
+dist/
+
+# generated database (rebuild with backend/scripts/import_excel.py)
+database/*.db
+database/*.db-wal
+database/*.db-shm
+database/*.sqlite*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log

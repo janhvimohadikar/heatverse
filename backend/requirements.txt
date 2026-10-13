@@ -1,0 +1,16 @@
+# Runtime dependencies (Python 3.10 - 3.12 recommended)
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+sqlalchemy==2.0.35
+pydantic==2.9.2
+pydantic-settings==2.5.2
+PyJWT==2.9.0
+httpx==0.27.2
+
+# Needed only by scripts/import_excel.py
+pandas==2.2.3
+openpyxl==3.1.5
+
+# Needed only if you connect your own trained model (see README, "Connect a trained ML model")
+# joblib==1.4.2
+# scikit-learn==1.5.2

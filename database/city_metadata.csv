@@ -1,0 +1,11 @@
+city,state,latitude,longitude,is_coastal,coord_source
+Delhi,Delhi (NCT),28.6139,77.2090,0,"Approximate city-centre coordinates; verify before publishing (see docs/map-data-sources.md)"
+Mumbai,Maharashtra,19.0760,72.8777,1,"Approximate city-centre coordinates; verify before publishing (see docs/map-data-sources.md)"
+Kolkata,West Bengal,22.5726,88.3639,0,"Approximate city-centre coordinates; verify before publishing (see docs/map-data-sources.md)"
+Chennai,Tamil Nadu,13.0827,80.2707,1,"Approximate city-centre coordinates; verify before publishing (see docs/map-data-sources.md)"
+Bangalore,Karnataka,12.9716,77.5946,0,"Approximate city-centre coordinates; verify before publishing (see docs/map-data-sources.md)"
+Hyderabad,Telangana,17.3850,78.4867,0,"Approximate city-centre coordinates; verify before publishing (see docs/map-data-sources.md)"
+Ahmedabad,Gujarat,23.0225,72.5714,0,"Approximate city-centre coordinates; verify before publishing (see docs/map-data-sources.md)"
+Pune,Maharashtra,18.5204,73.8567,0,"Approximate city-centre coordinates; verify before publishing (see docs/map-data-sources.md)"
+Jaipur,Rajasthan,26.9124,75.7873,0,"Approximate city-centre coordinates; verify before publishing (see docs/map-data-sources.md)"
+Lucknow,Uttar Pradesh,26.8467,80.9462,0,"Approximate city-centre coordinates; verify before publishing (see docs/map-data-sources.md)"
